@@ -47,7 +47,24 @@ a, u {
     height: 600px;
   }
   
-  .footer {
+.footer {
     background-color: #6b332e;
+    color: white;
     height: 270px;
   }
+
+.footer-logo{
+
+    font-size: 30px;
+    padding: 50px 30px;
+    float: left;
+    display: inline-block;
+}
+
+.footer-menu{
+    float: right;
+}
+.footer-menu li{
+    padding: 15px 30px;
+    font-size: 20px;
+}
